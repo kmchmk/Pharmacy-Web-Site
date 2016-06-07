@@ -17,7 +17,7 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 
-$sql = "SELECT * FROM product where productName Like '%$searchKey%' or brand Like '%$searchKey%' or description Like '%$searchKey%'";
+$sql = "SELECT * from product where productName Like '%$searchKey%' or brand Like '%$searchKey%' or description Like '%$searchKey%'";
 $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {
