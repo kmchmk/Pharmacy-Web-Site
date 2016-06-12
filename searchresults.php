@@ -15,15 +15,15 @@
         <?php
         $searchKey = $_GET["q"];
 
-//        $servername = 'sql301.ultimatefreehost.in';
-//        $username = 'ltm_17966125';
-//        $password = '123456789';
-//        $dbname = 'ltm_17966125_pharmacy';
+//        $servername = 'ec2-54-243-248-181.compute-1.amazonaws.com';
+//        $username = 'engfvmcksetoyg';
+//        $password = '4UNynjj71Qx0bWuUdyuf5def8O';
+//        $dbname = 'd459s5o7dirqk7';
         
-        $servername = 'localhost';
-        $username = 'root';
-        $password = '1234';
-        $dbname = 'pharmacy';
+$servername = "localhost";
+$username = "malithtk_chanaka";
+$password = "123chanaka123";
+$dbname = "malithtk_pharmacy";
 
 
 // Create connection
@@ -42,7 +42,7 @@
 
 
         <div class="top">
-            <h1><a href="index.html" title="Search Engine">Pharmacy</a></h1>
+            <h1><a href="index.php" title="Search Engine">Pharmacy</a></h1>
             <ul>
                 <li><a href="searchresults.php?q=" title="Show all the products available">Show all</a></li>
                 <!--                <li><a href="https://torrentz.eu/my" title="Personal Search">myTorrentz</a></li>-->

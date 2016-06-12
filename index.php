@@ -13,7 +13,7 @@
     </head>
     <body>
         <div class="top">
-            <h1><a href="index.html" title="Search Engine">Pharmacy</a></h1>
+            <h1><a href="index.php" title="Search Engine">Pharmacy</a></h1>
             <ul>
                 <li><a href="searchresults.php?q=" title="Show all the products available">Show all</a></li>
                 <!--<li><a href="https://torrentz.eu/my" title="Personal Search">myTorrentz</a></li>-->
