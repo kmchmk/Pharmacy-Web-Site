@@ -17,8 +17,8 @@
             <ul>
                 <li><a href="searchresults.php?q=" title="Show all the products available">Show all</a></li>
                 <!--<li><a href="https://torrentz.eu/my" title="Personal Search">myTorrentz</a></li>-->
-                <li><a href="https://torrentz.eu/profile" title="My Profile">Profile</a></li>
-                <li><a href="https://torrentz.eu/help" title="Get Help">Help</a></li>
+<!--                <li><a href="https://torrentz.eu/profile" title="My Profile">Profile</a></li>
+                <li><a href="https://torrentz.eu/help" title="Get Help">Help</a></li>-->
             </ul>
         </div>
 
