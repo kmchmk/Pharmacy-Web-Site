@@ -1,0 +1,2 @@
+This web site is connected with the Pharmacy management system (https://github.com/kmchmk1026/Pharmacy-Management-System.git). You can update the web site from that. Database for the web site is given here as pharmacy.sql.
+Thank you!
