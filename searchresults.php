@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Search results</title>
-        <link rel="stylesheet" href="./arrow torrent_files/style.33.css" type="text/css">
-        <script type="text/javascript" src="./arrow torrent_files/jquery.min.js"></script>
+        <link rel="stylesheet" href="./css/style.33.css" type="text/css">
+        <script type="text/javascript" src="./css/jquery.min.js"></script>
         <!--[if lt IE 9]>
         <script src="/ie9.js">i_am_old_ie = true;</script>
         <![endif]-->
-        <script type="text/javascript" src="./arrow torrent_files/tzs.10.js"></script>
+        <script type="text/javascript" src="./css/tzs.10.js"></script>
         <link rel="alternate" type="application/rss+xml" title="arrow" href="https://torrentz.eu/feed?q=arrow">
         <link rel="search" href="https://torrentz.eu/secureopensearch.xml" type="application/opensearchdescription+xml" title="Torrentz Search">
         <meta name="viewport" content="width=820">
@@ -21,8 +21,8 @@
 //        $dbname = 'd459s5o7dirqk7';
         
 $servername = "localhost";
-$username = "malithtk_chanaka";
-$password = "123chanaka123";
+$username = "root";
+$password = "1234";
 $dbname = "malithtk_pharmacy";
 
 
@@ -66,7 +66,7 @@ $dbname = "malithtk_pharmacy";
             });
         </script>
 
-        <iframe src="./arrow torrent_files/torrentz.eu.5654.html" frameborder="0" id="mgid" seamless="seamless" scrolling="no" style="display: none !important;"></iframe><div class="results"><h2 style="border-bottom: none"> <?php if (empty($searchKey)) {
+        <iframe src="./css/torrentz.eu.5654.html" frameborder="0" id="mgid" seamless="seamless" scrolling="no" style="display: none !important;"></iframe><div class="results"><h2 style="border-bottom: none"> <?php if (empty($searchKey)) {
             echo "Enter a search keyword";
         } else if ($numRows == 1) {
             echo "1 result found";

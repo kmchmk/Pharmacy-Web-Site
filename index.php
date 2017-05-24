@@ -2,12 +2,12 @@
 <!-- saved from url=(0020)https://torrentz.eu/ -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Pharmacy</title>
-        <link rel="stylesheet" href="./index_files/style.33.css" type="text/css">
-        <script type="text/javascript" src="./index_files/jquery.min.js"></script>
+        <link rel="stylesheet" href="./css/style.33.css" type="text/css">
+        <script type="text/javascript" src="./css/jquery.min.js"></script>
         <!--[if lt IE 9]>
         <script src="/ie9.js">i_am_old_ie = true;</script>
         <![endif]-->
-        <script type="text/javascript" src="./index_files/tzs.10.js"></script>
+        <script type="text/javascript" src="./css/tzs.10.js"></script>
         <link rel="search" href="https://torrentz.eu/secureopensearch.xml" type="application/opensearchdescription+xml" title="Torrentz Search">
         <meta name="viewport" content="width=820">
     </head>
